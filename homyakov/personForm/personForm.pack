@@ -1,0 +1,19 @@
+﻿#include @"personForm\personForm.ph"
+
+% privately used packages
+#include @"pfc\list\list.ph"
+#include @"pfc\fileSystem\fileSystem.ph"
+#include @"relations\relations.ph"
+#include @"famDB\famDB.ph"
+#include @"pfc\gui\controls\imageControl\imageControl.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\groupBox\groupBox.ph"
+#include @"pfc\gui\controls\listControl\listControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\integerControl\integerControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"personForm\personForm.pro"

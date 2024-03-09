@@ -1,0 +1,16 @@
+﻿#include @"searchDialog\searchDialog.ph"
+
+% privately used packages
+#include @"pfc\gui\applicationWindow\applicationWindow.ph"
+#include @"personForm\personForm.ph"
+#include @"pfc\vpi\vpiCommonDialogs\vpiCommonDialogs.ph"
+#include @"famDB\famDB.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"searchDialog\searchDialog.pro"

@@ -1,0 +1,17 @@
+﻿#include @"tableForm\tableForm.ph"
+
+% privately used packages
+#include @"pfc\vpi\vpiCommonDialogs\vpiCommonDialogs.ph"
+#include @"parser\parser.ph"
+#include @"pfc\string\string.ph"
+#include @"famDB\famDB.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\listControl\listControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\listViewControl\listViewControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"tableForm\tableForm.pro"
