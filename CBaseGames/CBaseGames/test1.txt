@@ -1,0 +1,260 @@
+<Game>
+Game
+dev1
+pub1
+1.100000
+1984
+0
+365
+<Directors>
+d1
+d2
+d3 dd3
+</Directors>
+<Game_designers>
+gd
+</Game_designers>
+<Programmers>
+p1
+p2
+</Programmers>
+<Artists>
+a
+</Artists>
+<Sound_designers>
+sd1
+sd2
+sd3
+sd4 sdsd4
+</Sound_designers>
+<Testers>
+test
+</Testers>
+</Game>
+<Strategy>
+King's Bounty Legend
+Katauri Interactive
+1C
+79.000000
+2008
+12
+62
+<Directors>
+</Directors>
+<Game_designers>
+Dmitriy Gusarov
+Ivan Magasinnikov
+</Game_designers>
+<Programmers>
+</Programmers>
+<Artists>
+Alexandr Yasinin
+</Artists>
+<Sound_designers>
+Michail Kostilev
+Andrey Gladkov
+Anastasiya Pankova
+Victor Krasnokutskiy
+</Sound_designers>
+<Testers>
+</Testers>
+8
+<Unit_types>
+people
+elves
+dwarfs
+demons
+undead
+orcs
+neutrals
+summoned creatures
+</Unit_types>
+</Strategy>
+<RPG>
+Mass effect
+BioWare
+Electronic Arts
+89.000000
+2008
+17
+28
+<Directors>
+Casey Hudson
+</Directors>
+<Game_designers>
+Preston Watamaniuk
+</Game_designers>
+<Programmers>
+David Falkner
+</Programmers>
+<Artists>
+Derek Watts
+</Artists>
+<Sound_designers>
+Jack Wall
+Sam Hulick
+Richard Jacques
+David Kates
+</Sound_designers>
+<Testers>
+</Testers>
+6
+80
+<Quest_names>
+Prologue
+Citadel
+Find Liara T'Soni
+Feros
+Noveria
+Virmire
+Ilos
+Race Against Time
+</Quest_names>
+</RPG>
+<Strategy>
+Sid Meier's Civilization V
+Firaxis Games
+2K Games
+90.000000
+2010
+10
+126
+<Directors>
+Jon Shafer
+</Directors>
+<Game_designers>
+Jon Shafer
+Ed Beach
+Scott Lewis
+</Game_designers>
+<Programmers>
+Brian Wade
+Tim Kipp
+Ed Beach
+</Programmers>
+<Artists>
+Dorian Newcomb
+Chris Hickman
+Brian Busatti
+</Artists>
+<Sound_designers>
+Michael Curran
+Geoff Knorr
+</Sound_designers>
+<Testers>
+</Testers>
+43
+<Unit_types>
+Atomic Bomb
+Musketeer
+Giant Death Robot
+Knight
+Worker
+Caravel
+</Unit_types>
+</Strategy>
+<Game>
+Super Mario Bros.
+Nintendo R&D4
+Nintendo
+84.000000
+1985
+0
+2
+<Directors>
+Shigeru Miyamoto
+</Directors>
+<Game_designers>
+Shigeru Miyamoto
+Takashi Tezuka
+</Game_designers>
+<Programmers>
+Toshihiko Nakago
+Kazuaki Morita
+</Programmers>
+<Artists>
+Shigeru Miyamoto
+Takashi Tezuka
+</Artists>
+<Sound_designers>
+Koji Kondo
+</Sound_designers>
+<Testers>
+</Testers>
+</Game>
+<Game>
+тест3
+тест2
+тест1
+10.000000
+2000
+17
+23
+<Directors>
+</Directors>
+<Game_designers>
+</Game_designers>
+<Programmers>
+</Programmers>
+<Artists>
+</Artists>
+<Sound_designers>
+</Sound_designers>
+<Testers>
+</Testers>
+</Game>
+<Game>
+тест
+тест
+тест
+90.000000
+2001
+13
+56
+<Directors>
+</Directors>
+<Game_designers>
+</Game_designers>
+<Programmers>
+</Programmers>
+<Artists>
+</Artists>
+<Sound_designers>
+</Sound_designers>
+<Testers>
+</Testers>
+</Game>
+<RPG>
+Divinity: Original Sin II
+Larian Studios
+Larian Studios (PC)
+93.000000
+2017
+18
+102
+<Directors>
+Swen Vincke
+</Directors>
+<Game_designers>
+</Game_designers>
+<Programmers>
+Bert Van Semmertier
+</Programmers>
+<Artists>
+Joachim Vleminckx
+</Artists>
+<Sound_designers>
+Borislav Slavov
+</Sound_designers>
+<Testers>
+</Testers>
+14
+161
+<Quest_names>
+Crippling a Demon
+The Mother Tree
+No Way Out
+Bitter Tonic
+Hide & Seek
+</Quest_names>
+</RPG>
