@@ -1,0 +1,19 @@
+﻿#include @"objectForm\objectForm.ph"
+
+% privately used packages
+#include @"pfc\fileSystem\fileSystem.ph"
+#include @"pfc\vpi\vpiCommonDialogs\vpiCommonDialogs.ph"
+#include @"pfc\application\Exe\exe.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\string\string.ph"
+#include @"dbBoardGames\dbBoardGames.ph"
+#include @"pfc\gui\controls\imageControl\imageControl.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\listControl\listControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"objectForm\objectForm.pro"

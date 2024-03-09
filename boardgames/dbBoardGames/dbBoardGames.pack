@@ -1,0 +1,8 @@
+﻿#include @"dbBoardGames\dbBoardGames.ph"
+
+% privately used packages
+#include @"pfc\string\string.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\fileSystem\fileSystem.ph"
+% implementations
+#include @"dbBoardGames\dbBoardGames.pro"

@@ -1,0 +1,14 @@
+﻿#include @"expertForm\expertForm.ph"
+
+% privately used packages
+#include @"pfc\list\list.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\gui\controls\imageControl\imageControl.ph"
+#include @"pfc\gui\controls\groupBox\groupBox.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"expertForm\expertForm.pro"
