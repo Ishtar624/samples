@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(45, 40, 40);
+}
+.header,
+.main,
+.footer {
+  min-height: 100vh;
+  padding: 20px 80px 20px 80px;
+}
+.header {
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.heading {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.header__menu {
+  margin-top: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.header__info_heading {
+  font-size: 64px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main__galery {
+  width: 75%;
+  margin-bottom: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+.main__heading {
+  font-size: 2em;
+}
+.main__galery_img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.main__galery_text {
+  font-weight: 400;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(45, 40, 40);
+  color: white;
+}
+
+.footer__block{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.footer__block_button{
+  background-color: white;
+  font-size: 20px;
+  padding: 10px 5px 10px 5px;
+  border-radius: 20px;
+}
+
+.footer__block_button:hover{
+  transition: all 1s ease0s;
+  background-color: brown;
+  color: white;
+}
+
+.footer__block_text {
+  padding-top: 20px;
+}
+

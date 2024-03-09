@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/css/style.css" />
+    <title>Галерея</title>
+  </head>
+  <body>
+    <header class="header" id="header">
+      <nav class="header__nav">
+        <ul class="header__menu">
+          <li class="header__menu_elem">
+            <a href="#header" class="link"> Главная </a>
+          </li>
+          <li class="header__menu_elem">
+            <a href="#main" class="link"> Галерея </a>
+          </li>
+          <li class="header__menu_elem">
+            <a href="#footer" class="link"> Футер </a>
+          </li>
+        </ul>
+      </nav>
+      <div class="header__info">
+        <h1 class="header__info_heading heading">
+          Галерея<br />с фотографиями
+        </h1>
+        <div class="header__info_content">
+          На этой странице можно посмотреть, чему я научился за несколько<br />
+          занятий по web-разработке, как я прописываю стили, как располагаю<br />
+          блоки и многое другое
+        </div>
+      </div>
+    </header>
+    <section class="main flex-center" id="main">
+      <h1 class="main__heading heading">Галерея</h1>
+      <div class="main__galery">
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/flowers.jpg" /
+          alt="Flowers">
+          <h3 class="main__galery_text">Цветы</h3>
+        </div>
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/house.jpg" / alt="House">
+          <h3 class="main__galery_text">Домик</h3>
+        </div>
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/car.jpg" / alt="Car">
+          <h3 class="main__galery_text">Машина</h3>
+        </div>
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/study.jpg" / alt="Study">
+          <h3 class="main__galery_text">Учеба</h3>
+        </div>
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/bridge.jpg" / alt="Bridge">
+          <h3 class="main__galery_text">Мост на закате</h3>
+        </div>
+        <div class="main__galery_elem">
+          <img class="main__galery_img" src="src/img/rocks.jpg" / alt="Rocks">
+          <h3 class="main__galery_text">Скалистый берег</h3>
+        </div>
+      </div>
+    </section>
+    <footer class="footer flex-center" id="footer">
+      <div class="footer__block flex-center">
+        <p class="footer__block_text">
+          Если ты дошел до этого места, то наведи мышку на кнопку снизу
+        </p>
+        <button class="footer__block_button">Наведи на меня</button>
+      </div>
+    </footer>
+  </body>
+</html>
