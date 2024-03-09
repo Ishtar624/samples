@@ -1,0 +1,13 @@
+﻿#include @"treeForm\treeForm.ph"
+
+% privately used packages
+#include @"pfc\list\list.ph"
+#include @"famDB\famDB.ph"
+#include @"pfc\gui\controls\TreeControl\treeModel_std\treeModel_std.ph"
+#include @"pfc\gui\controls\TreeControl\TreeControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% implementations
+#include @"treeForm\treeForm.pro"
